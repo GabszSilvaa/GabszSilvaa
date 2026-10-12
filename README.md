@@ -37,6 +37,8 @@ Linguagens & Ferramentas: Java, Git, GitHub,
 🟠 Amazon Web Services (AWS)
 AWS Academy Graduate — Generative AI Foundations (Training Badge)
 
+- [https://www.credly.com/badges/93d1fa00-9689-44c9-9ab7-f345c386ccb4/public_url]
+
 🧩 Projetos
 Este espaço reúne projetos, estudos e experiências práticas desenvolvidos ao longo da minha formação.
 
