@@ -7,6 +7,8 @@ Gabriel Silva
 
 🔗 LinkedIn • 🐙 GitHub
 
+- [https://www.linkedin.com/in/gabriel-silva-26b0b83b2/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BkvGG3B%2BUSIOzYYl4JgSjhg%3D%3D]
+
 👋 Sobre mim
 Olá! Sou Gabriel Silva, estudante de Ciência da Computação na Universidade Potiguar (UnP), construindo minha trajetória na área de tecnologia.
 
