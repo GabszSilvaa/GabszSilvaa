@@ -23,7 +23,7 @@ Formação: Cursando Ciência da Computação — Universidade Potiguar (UnP)
 
 Cloud & Segurança: Explorando Cloud Computing (AWS e Google Cloud) e Segurança/IA Responsável
 
-Desenvolvimento: Evoluindo habilidades com Python, Java e Git
+Desenvolvimento: Evoluindo habilidades com Java e Git
 
 🛠️ Tecnologias e Ferramentas
 Linguagens & Ferramentas: Java, Git, GitHub, 
