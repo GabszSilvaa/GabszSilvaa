@@ -47,7 +47,7 @@ AWS Academy Graduate — Generative AI Foundations (Training Badge)
 
 🧩 Projetos
 Este espaço reúne projetos, estudos e experiências práticas desenvolvidos ao longo da minha formação.
-
+Aplicativo para repositorio
 👉 Ver meus repositórios no GitHub
 
 🎯 Objetivos
