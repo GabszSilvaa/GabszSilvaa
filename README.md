@@ -55,7 +55,7 @@ Aprofundar conhecimentos teóricos e práticos em Inteligência Artificial e Mac
 
 Dominar ferramentas e boas práticas de MLOps e Cloud Computing.
 
-Consolidar o uso de Python para automação e engenharia de IA.
+Consolidar o uso de java para automação e engenharia de IA.
 
 Criar projetos inovadores que resolvam problemas reais da sociedade.
 
