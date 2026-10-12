@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="./banner.svg" alt="Banner Gabriel Silva" width="100%">
+  <img src="https://raw.githubusercontent.com/GabszSilvaa/GabszSilvaa/main/banner.svg" alt="Banner Gabriel Silva" width="100%">
 </p>
-
 
 
 
