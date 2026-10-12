@@ -3,7 +3,6 @@
 </p>
 
 
-![GIF animado](./caminho/para/o-arquivo.gif)
 
 
 
