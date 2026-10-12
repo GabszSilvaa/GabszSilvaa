@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="./banner.svg" alt="Banner Gabriel Silva" width="100%">
+</p>
+
+
 Gabriel Silva
 "Aprendendo hoje para construir as soluções de amanhã."
 
