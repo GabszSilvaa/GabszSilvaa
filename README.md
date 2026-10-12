@@ -44,6 +44,7 @@ AWS Academy Graduate — Generative AI Foundations (Training Badge)
 🧩 Projetos
 Este espaço reúne projetos, estudos e experiências práticas desenvolvidos ao longo da minha formação.
 
+- (MVP) -
 https://focus-spot-hub.lovable.app
 
 👉 Ver meus repositórios no GitHub
