@@ -26,7 +26,7 @@ Cloud & Segurança: Explorando Cloud Computing (AWS e Google Cloud) e Segurança
 Desenvolvimento: Evoluindo habilidades com Python, Java e Git
 
 🛠️ Tecnologias e Ferramentas
-Linguagens & Ferramentas: Python, Java, Git, GitHub, VS Code
+Linguagens & Ferramentas: Java, Git, GitHub, 
 
 Áreas de Atuação: Artificial Intelligence, Machine Learning, MLOps, Google Cloud, AWS
 
