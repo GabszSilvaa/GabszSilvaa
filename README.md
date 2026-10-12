@@ -2,10 +2,6 @@
   <img src="https://raw.githubusercontent.com/GabszSilvaa/GabszSilvaa/main/banner.svg" alt="Banner Gabriel Silva" width="100%">
 </p>
 
-
-
-
-
 Gabriel Silva
 "Aprendendo hoje para construir as soluções de amanhã."
 
@@ -32,15 +28,11 @@ Linguagens & Ferramentas: Java, Git, GitHub,
 
 📜 Certificados
 🔵 Google
-Model Armor: Como proteger implantações de IA (Código: 28814271)
-
-Introdução à segurança no mundo da IA (Código: 28799280)
-
-Operações de Machine Learning (MLOps) para IA Generativa (Código: 28551951)
-
-MLOps com a Vertex AI: Avaliação de modelo (Código: 28732836)
-
-IA responsável para desenvolvedores: Imparcialidade e viés (Código: 28757099)
+- [Model Armor: Como proteger implantações de IA](https://www.skills.google/public_profiles/b791f51b-3284-40b8-9ec0-546bc1fae7f4/badges/28814271) (Código: 28814271)
+- [Introdução à segurança no mundo da IA](https://www.skills.google/public_profiles/b791f51b-3284-40b8-9ec0-546bc1fae7f4/badges/28799280) (Código: 28799280)
+- [Operações de Machine Learning (MLOps) para IA Generativa](https://www.skills.google/public_profiles/b791f51b-3284-40b8-9ec0-546bc1fae7f4/badges/28551951) (Código: 28551951)
+- [MLOps com a Vertex AI: Avaliação de modelo](https://www.skills.google/public_profiles/b791f51b-3284-40b8-9ec0-546bc1fae7f4/badges/28732836) (Código: 28732836)
+- [IA responsável para desenvolvedores: Imparcialidade e viés](https://www.skills.google/public_profiles/b791f51b-3284-40b8-9ec0-546bc1fae7f4/badges/28757099) (Código: 28757099)
 
 🟠 Amazon Web Services (AWS)
 AWS Academy Graduate — Generative AI Foundations (Training Badge)
