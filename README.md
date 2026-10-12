@@ -52,6 +52,8 @@ https://focus-spot-hub.lovable.app
 
 👉 Ver meus repositórios no GitHub
 
+https://github.com/GabszSilvaa/Projetos.git
+
 🎯 Objetivos
 Aprofundar conhecimentos teóricos e práticos em Inteligência Artificial e Machine Learning.
 
