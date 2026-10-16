@@ -63,11 +63,11 @@ Gosto de aprender por meio de projetos práticos, explorar novas tecnologias e t
 
 ### 🔵 Google Cloud
 
-- **Model Armor: Como proteger implantações de IA** — [Ver badge] (https://www.skills.google/public_profiles/b791f51b-3284-40b8-9ec0-546bc1fae7f4/badges/28814271)
-- **Introdução à segurança no mundo da IA** — [Ver badge] (https://www.skills.google/public_profiles/b791f51b-3284-40b8-9ec0-546bc1fae7f4/badges/28814271)
-- **Operações de Machine Learning (MLOps) para IA Generativa** — [Ver badge] (https://www.skills.google/public_profiles/b791f51b-3284-40b8-9ec0-546bc1fae7f4/badges/28551951)
-- **MLOps com a Vertex AI: Avaliação de modelo** — [Ver badge] (https://www.skills.google/public_profiles/b791f51b-3284-40b8-9ec0-546bc1fae7f4/badges/28732836)
-- **IA responsável para desenvolvedores: Imparcialidade e viés** — [Ver badge] (https://www.skills.google/public_profiles/b791f51b-3284-40b8-9ec0-546bc1fae7f4/badges/28757099)
+- **Model Armor: Como proteger implantações de IA** — [Ver badge](https://www.skills.google/public_profiles/b791f51b-3284-40b8-9ec0-546bc1fae7f4/badges/28814271)
+- **Introdução à segurança no mundo da IA** — [Ver badge](https://www.skills.google/public_profiles/b791f51b-3284-40b8-9ec0-546bc1fae7f4/badges/28814271)
+- **Operações de Machine Learning (MLOps) para IA Generativa** — [Ver badge](https://www.skills.google/public_profiles/b791f51b-3284-40b8-9ec0-546bc1fae7f4/badges/28551951)
+- **MLOps com a Vertex AI: Avaliação de modelo** — [Ver badge](https://www.skills.google/public_profiles/b791f51b-3284-40b8-9ec0-546bc1fae7f4/badges/28732836)
+- **IA responsável para desenvolvedores: Imparcialidade e viés** — [Ver badge](https://www.skills.google/public_profiles/b791f51b-3284-40b8-9ec0-546bc1fae7f4/badges/28757099)
 - **Responsible AI for Digital Leaders with Google Cloud** — [Ver badge](https://www.skills.google/public_profiles/b791f51b-3284-40b8-9ec0-546bc1fae7f4/badges/28911330)
 
 ### 🟠 Amazon Web Services (AWS)
