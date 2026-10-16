@@ -1,31 +1,112 @@
-Gabriel Silva "Aprendendo hoje para construir as soluções de amanhã."
-🔗 LinkedIn • 🐙 GitHub
+# 👋 Olá, eu sou Gabriel Silva!
 
-* [[https://www.linkedin.com/in/gabriel-silva-26b0b83b2/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BkvGG3B%2BUSIOzYYl4JgSjhg%3D%3D](https://www.linkedin.com/in/gabriel-silva-26b0b83b2/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BkvGG3B%2BUSIOzYYl4JgSjhg%3D%3D)]
-👋 Sobre mim Olá! Sou Gabriel Silva, estudante de Ciência da Computação na Universidade Potiguar (UnP), construindo minha trajetória na área de tecnologia.
-Venho direcionando meus estudos para Inteligência Artificial, Machine Learning, MLOps, Cloud Computing e Segurança em IA. Gosto de aprender por meio de projetos práticos e transformar novos conhecimentos em soluções reais.
-🚀 Atualmente Formação: Cursando Ciência da Computação — Universidade Potiguar (UnP)
-Áreas de Foco: Inteligência Artificial, IA Generativa, Machine Learning e MLOps (Vertex AI)
-Cloud & Segurança: Explorando Cloud Computing (AWS e Google Cloud) e Segurança/IA Responsável
-Desenvolvimento: Evoluindo habilidades com Java e Git
-🛠️ Tecnologias e Ferramentas Linguagens & Ferramentas: Java, Git, GitHub,
-Áreas de Atuação: Artificial Intelligence, Machine Learning, MLOps, Google Cloud, AWS
-📜 Certificados 🔵 Google
-* Model Armor: Como proteger implantações de IA (Código: 28814271)
-* Introdução à segurança no mundo da IA (Código: 28799280)
-* Operações de Machine Learning (MLOps) para IA Generativa (Código: 28551951)
-* MLOps com a Vertex AI: Avaliação de modelo (Código: 28732836)
-* IA responsável para desenvolvedores: Imparcialidade e viés (Código: 28757099)
-* Responsible AI for Digital Leaders with Google Cloud: [[https://www.skills.google/public_profiles/b791f51b-3284-40b8-9ec0-546bc1fae7f4/badges/28911330](https://www.skills.google/public_profiles/b791f51b-3284-40b8-9ec0-546bc1fae7f4/badges/28911330)]
-🟠 Amazon Web Services (AWS) AWS Academy Graduate — Generative AI Foundations (Training Badge)
-* [[https://www.credly.com/badges/93d1fa00-9689-44c9-9ab7-f345c386ccb4/public_url](https://www.credly.com/badges/93d1fa00-9689-44c9-9ab7-f345c386ccb4/public_url)]
-🧩 Projetos Este espaço reúne projetos, estudos e experiências práticas desenvolvidos ao longo da minha formação.
-* (MVP) - [https://focus-spot-hub.lovable.app](https://focus-spot-hub.lovable.app)
-👉 Ver meus repositórios no GitHub
-[https://github.com/GabszSilvaa/Projetos.git](https://github.com/GabszSilvaa/Projetos.git)
-🎯 Objetivos Aprofundar conhecimentos teóricos e práticos em Inteligência Artificial e Machine Learning.
-Dominar ferramentas e boas práticas de MLOps e Cloud Computing.
-Consolidar o uso de java para automação e engenharia de IA.
-Criar projetos inovadores que resolvam problemas reais da sociedade.
-📫 Vamos nos conectar? LinkedIn: Gabriel Silva
-GitHub: @GabszSilvaa
+### 💻 Ciência da Computação | Inteligência Artificial | Machine Learning
+
+> 🚀 Aprendendo hoje para construir as soluções de amanhã.
+
+Sou estudante de **Ciência da Computação na Universidade Potiguar (UnP)** e estou construindo minha trajetória na área de tecnologia. Tenho interesse em Inteligência Artificial, Machine Learning, MLOps, Cloud Computing e Segurança em IA.
+
+Gosto de aprender por meio de projetos práticos, explorar novas tecnologias e transformar conhecimentos em soluções que resolvam problemas reais.
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/gabriel-silva-26b0b83b2/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Conectar-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/GabszSilvaa" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Repositórios-black?style=for-the-badge&logo=github" alt="GitHub">
+  </a>
+</p>
+
+---
+
+## 🚀 Sobre mim
+
+- 🎓 **Formação:** Ciência da Computação — Universidade Potiguar (UnP).
+- 🤖 **Inteligência Artificial:** estudando IA Generativa, Machine Learning e IA Responsável.
+- ⚙️ **MLOps:** explorando avaliação de modelos e operações de IA com Vertex AI.
+- ☁️ **Cloud Computing:** desenvolvendo conhecimentos em Google Cloud e AWS.
+- 🔐 **Segurança:** interessado em segurança de aplicações de IA e proteção de modelos.
+- ☕ **Desenvolvimento:** aprimorando minhas habilidades em Java.
+- 🧩 **Versionamento:** utilizando Git e GitHub para organizar e compartilhar projetos.
+
+## 🛠️ Tecnologias e ferramentas
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Vertex AI">
+</p>
+
+**Principais áreas de estudo:**
+
+- Inteligência Artificial e IA Generativa
+- Machine Learning
+- MLOps e avaliação de modelos
+- Cloud Computing
+- Segurança e responsabilidade em IA
+- Desenvolvimento de software com Java
+
+## 📜 Certificados e conquistas
+
+### 🔵 Google Cloud
+
+- **Model Armor: Como proteger implantações de IA** — Código: `28814271`
+- **Introdução à segurança no mundo da IA** — Código: `28799280`
+- **Operações de Machine Learning (MLOps) para IA Generativa** — Código: `28551951`
+- **MLOps com a Vertex AI: Avaliação de modelo** — Código: `28732836`
+- **IA responsável para desenvolvedores: Imparcialidade e viés** — Código: `28757099`
+- **Responsible AI for Digital Leaders with Google Cloud** — [Ver badge](https://www.skills.google/public_profiles/b791f51b-3284-40b8-9ec0-546bc1fae7f4/badges/28911330)
+
+### 🟠 Amazon Web Services (AWS)
+
+- **AWS Academy Graduate — Generative AI Foundations**
+- [Ver certificado digital no Credly](https://www.credly.com/badges/93d1fa00-9689-44c9-9ab7-f345c386ccb4/public_url)
+
+## 🧩 Projetos
+
+Este espaço reúne projetos, estudos e experiências práticas desenvolvidos ao longo da minha formação em tecnologia.
+
+### 🚀 Focus Spot Hub
+
+Aplicação em versão MVP desenvolvida para explorar ideias e soluções digitais.
+
+🔗 [Acessar o projeto](https://focus-spot-hub.lovable.app)
+
+### 💻 Repositório de projetos
+
+Confira meus códigos, exercícios, estudos e projetos de programação.
+
+🔗 [Acessar meus repositórios no GitHub](https://github.com/GabszSilvaa/Projetos)
+
+## 🎯 Meus objetivos
+
+- Aprofundar meus conhecimentos teóricos e práticos em Inteligência Artificial e Machine Learning.
+- Desenvolver habilidades em MLOps, avaliação de modelos e implantação de soluções de IA.
+- Aprimorar meus conhecimentos em Cloud Computing, especialmente Google Cloud e AWS.
+- Consolidar minhas habilidades em Java, Git e engenharia de software.
+- Estudar segurança, confiabilidade e uso responsável da Inteligência Artificial.
+- Criar projetos inovadores capazes de solucionar problemas reais da sociedade.
+
+## 📈 Aprendizado contínuo
+
+Acredito que a tecnologia está sempre evoluindo e que aprender continuamente é essencial para crescer como profissional. Por isso, busco unir teoria, prática, projetos pessoais e certificações para desenvolver minhas habilidades e construir uma carreira sólida na área de tecnologia.
+
+## 📫 Vamos nos conectar?
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/gabriel-silva-26b0b83b2/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Gabriel_Silva-blue?style=for-the-badge&logo=linkedin" alt="Meu LinkedIn">
+  </a>
+  <a href="https://github.com/GabszSilvaa" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-@GabszSilvaa-181717?style=for-the-badge&logo=github" alt="Meu GitHub">
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>💡 Aprendendo, desenvolvendo e evoluindo um projeto de cada vez.</i>
+</p>
