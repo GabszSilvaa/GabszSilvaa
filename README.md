@@ -1,4 +1,4 @@
-
+<img src="banner-gabriel-minimalista.svg" alt="Gabriel Silva" width="100%">
 
 
 
