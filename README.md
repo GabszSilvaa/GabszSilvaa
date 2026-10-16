@@ -13,10 +13,10 @@ Desenvolvimento: Evoluindo habilidades com Java e Git
 📜 Certificados 🔵 Google
 * Model Armor: Como proteger implantações de IA (Código: 28814271)
 * Introdução à segurança no mundo da IA (Código: 28799280)
-* Operações de Machine Learning (MLOps) para IA Generativa (JSON/Código: 28551951)
+* Operações de Machine Learning (MLOps) para IA Generativa (Código: 28551951)
 * MLOps com a Vertex AI: Avaliação de modelo (Código: 28732836)
 * IA responsável para desenvolvedores: Imparcialidade e viés (Código: 28757099)
-* Responsible AI for Digital Leaders with Google Cloud (Código: 28911330) — [[https://www.skills.google/public_profiles/b791f51b-3284-40b8-9ec0-546bc1fae7f4/badges/28911330](https://www.skills.google/public_profiles/b791f51b-3284-40b8-9ec0-546bc1fae7f4/badges/28911330)]
+* Responsible AI for Digital Leaders with Google Cloud: [[https://www.skills.google/public_profiles/b791f51b-3284-40b8-9ec0-546bc1fae7f4/badges/28911330](https://www.skills.google/public_profiles/b791f51b-3284-40b8-9ec0-546bc1fae7f4/badges/28911330)]
 🟠 Amazon Web Services (AWS) AWS Academy Graduate — Generative AI Foundations (Training Badge)
 * [[https://www.credly.com/badges/93d1fa00-9689-44c9-9ab7-f345c386ccb4/public_url](https://www.credly.com/badges/93d1fa00-9689-44c9-9ab7-f345c386ccb4/public_url)]
 🧩 Projetos Este espaço reúne projetos, estudos e experiências práticas desenvolvidos ao longo da minha formação.
