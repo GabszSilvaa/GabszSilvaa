@@ -41,23 +41,26 @@ Gosto de aprender por meio de projetos práticos, explorar novas tecnologias e t
 
 ## 🛠️ Tecnologias e ferramentas
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS">
-  <img src="https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Vertex AI">
-</p>
+<div align="center">
 
-**Principais áreas de estudo:**
+### 💻 Desenvolvimento
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 
-- Inteligência Artificial e IA Generativa
-- Machine Learning
-- MLOps e avaliação de modelos
-- Cloud Computing
-- Segurança e responsabilidade em IA
-- Desenvolvimento de software com Java
+### ☁️ Cloud
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud">
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="AWS">
+
+### 🤖 IA e Machine Learning
+<img src="https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Vertex AI">
+<img src="https://img.shields.io/badge/IA_Generativa-8E24AA?style=for-the-badge&logo=openai&logoColor=white" alt="IA Generativa">
+<img src="https://img.shields.io/badge/MLOps-0F9D58?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLOps">
+<img src="https://img.shields.io/badge/IA_Responsável-F4B400?style=for-the-badge&logo=shield&logoColor=black" alt="IA Responsável">
+
+</div>
+ 
 
 ## 📜 Certificados e conquistas
 
