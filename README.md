@@ -73,6 +73,16 @@ Gosto de aprender por meio de projetos práticos, explorar novas tecnologias e t
 - **IA responsável para desenvolvedores: Imparcialidade e viés** — [Ver badge](https://www.skills.google/public_profiles/b791f51b-3284-40b8-9ec0-546bc1fae7f4/badges/28757099)
 - **Responsible AI for Digital Leaders with Google Cloud** — [Ver badge](https://www.skills.google/public_profiles/b791f51b-3284-40b8-9ec0-546bc1fae7f4/badges/28911330)
 
+
+
+### 🔵 Cisco
+
+- **Introduction to Modern AI** — [Ver certificado digital no Credly](https://www.credly.com/badges/a8673095-5f77-47cd-ada1-4c193d408bea/public_url)
+
+
+
+
+
 ### 🟠 Amazon Web Services (AWS)
 
 - **AWS Academy Graduate — Generative AI Foundations**
