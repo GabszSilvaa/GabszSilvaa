@@ -73,7 +73,7 @@ Gosto de aprender por meio de projetos práticos, explorar novas tecnologias e t
 - **IA responsável para desenvolvedores: Imparcialidade e viés** — [Ver badge](https://www.skills.google/public_profiles/b791f51b-3284-40b8-9ec0-546bc1fae7f4/badges/28757099)
 - **Responsible AI for Digital Leaders with Google Cloud** — [Ver badge](https://www.skills.google/public_profiles/b791f51b-3284-40b8-9ec0-546bc1fae7f4/badges/28911330)
 - **Scaling With Google Cloud Operations** — [Ver badge](https://www.skills.google/public_profiles/b791f51b-3284-40b8-9ec0-546bc1fae7f4/badges/29235302)
-- **Novo certificado Google Cloud** — [Ver badge](https://www.skills.google/public_profiles/b791f51b-3284-40b8-9ec0-546bc1fae7f4/badges/29257405)
+- **Digital Transformation With Google Cloud** — [Ver badge](https://www.skills.google/public_profiles/b791f51b-3284-40b8-9ec0-546bc1fae7f4/badges/29257405)
 - **Novo certificado Google Cloud** — [Ver badge](https://www.skills.google/public_profiles/b791f51b-3284-40b8-9ec0-546bc1fae7f4/badges/29257679)
 
 
