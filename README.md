@@ -75,7 +75,7 @@ Gosto de aprender por meio de projetos práticos, explorar novas tecnologias e t
 - **Digital Transformation With Google Cloud** — [Ver badge](https://www.skills.google/public_profiles/b791f51b-3284-40b8-9ec0-546bc1fae7f4/badges/29257405)
 - **Innovating With Google Cloud Artificial Intelligence** — [Ver badge](https://www.skills.google/public_profiles/b791f51b-3284-40b8-9ec0-546bc1fae7f4/badges/29257679)
 - **Exploring Data Transformation With Google Cloud** — [Ver badge](https://www.skills.google/public_profiles/b791f51b-3284-40b8-9ec0-546bc1fae7f4/badges/29257998)
-- **Mordenize Infrastructure And Applications With Google Cloud ** — [Ver badge](https://www.skills.google/public_profiles/b791f51b-3284-40b8-9ec0-546bc1fae7f4/badges/29258254)
+- **Mordenize Infrastructure And Applications With Google Cloud** — [Ver badge](https://www.skills.google/public_profiles/b791f51b-3284-40b8-9ec0-546bc1fae7f4/badges/29258254)
 - **Trust And Security With Google Cloud** — [Ver badge](https://www.skills.google/public_profiles/b791f51b-3284-40b8-9ec0-546bc1fae7f4/badges/29258466)
 
 
